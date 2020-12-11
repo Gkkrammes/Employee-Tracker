@@ -2,6 +2,8 @@
   # Employee Tracker 
   # https://github.com/Gkkrammes/Employee-Tracker
   
+  # ** Link to Demo Video ** https://drive.google.com/file/d/1bkKTxB2-SEb40aMWhLKIV32OedcZcGey/view 
+  
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
